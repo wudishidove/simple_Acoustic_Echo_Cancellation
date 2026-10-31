@@ -1,0 +1,7 @@
+aec-audio-processing==1.0.1
+PyAudioWPatch==0.2.12.9
+numpy==2.5.4
+soxr==1.1.0
+pyinstaller==6.22.3
+pystray==0.19.5
+Pillow==13.0.0

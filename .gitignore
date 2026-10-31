@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+build/
+dist/
+drivers/
+settings.json
+logs/
+tests/assets/
+DEBUG-REPORT.md
+新文字文件.txt
+.env
+.env.*
+*.pem
+*.key
